@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ravi-Kumar-Yadav-6289
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently ML and DL
+- 🌱 I’m currently learning ML and DL
 - 💞️ I’m looking to collaborate on all types of Python, DL, and ML projects.
 - 📫 Email: ravikumar6f@gmail.com, LinkedIn: www.linkedin.com/in/ravi-kumar-yadav-ab89051a5
 
