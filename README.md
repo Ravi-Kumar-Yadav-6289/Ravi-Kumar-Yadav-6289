@@ -1,3 +1,5 @@
+
+![](https://komarev.com/ghpvc/?username=Ravi-Kumar-Yadav-6289&color=ff69b4)
 - 👋 Hi, I’m @Ravi-Kumar-Yadav-6289
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning ML and DL
